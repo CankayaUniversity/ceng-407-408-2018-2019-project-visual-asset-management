@@ -1,1 +1,1 @@
-# ceng-407-408-project-visual-inventory-management
+# ceng-407-408-project-visual-asset-management

@@ -1,0 +1,79 @@
+﻿@model ASPCoreSample.Models.UserModel
+
+@{
+    ViewData["Title"] = "Düzenle";
+}
+
+<h2>Düzenle</h2>
+
+@if (@ViewData["error"] != null )
+{
+<p>
+    <font size="3" color="red">İŞLEM BAŞARISIZ </font>
+</p>
+}
+
+@if (@ViewData["success"] != null )
+{
+<p>
+    <font size="3" color="green">İŞLEM Başarılı </font>
+</p>
+}
+<form asp-action="Index">
+    <div class="form-horizontal">
+        <h4>Kullanıcı bilgileri:</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="name" class="col-md-2 control-label">Adı</label>
+            <div class="col-md-10">
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="surname" class="col-md-2 control-label">Soyadı</label>
+            <div class="col-md-10">
+                <input asp-for="surname" class="form-control" />
+                <span asp-validation-for="surname" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="password" class="col-md-2 control-label">Şifre</label>
+            <div class="col-md-10">
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="email" class="col-md-2 control-label">e-mail</label>
+            <div class="col-md-10">
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger" />
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="username" class="col-md-2 control-label">Kullanıcı adı</label>
+            <div class="col-md-10">
+                <input asp-for="username" class="form-control" />
+                <span asp-validation-for="username" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Kaydet" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

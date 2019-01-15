@@ -1,0 +1,57 @@
+﻿@model ASPCoreSample.Models.RoomModel
+
+@{
+    ViewData["Title"] = "Düzenle";
+}
+
+<h2>Düzenle</h2>
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+        <h4>Oda Bilgileri</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="roomname" class="col-md-2 control-label">Oda Adı</label>
+            <div class="col-md-5">
+                <input asp-for="roomname" class="form-control" disabled/>
+                <span asp-validation-for="roomname" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+
+            <label asp-for="owner_id" class="col-md-2 control-label">Odanın Sahibi</label>
+            <div class="col-md-5">
+                <select asp-for="owner_id" asp-items="@ViewBag.owners">
+                    <option>Lütfen Seçiniz</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="isactive" class="col-md-2 control-label">Aktiflik</label>
+            <div class="col-md-2">
+                <input asp-for="isactive" class="form-control" />
+                <span asp-validation-for="isactive" class="text-danger" />
+            </div>
+        </div>
+        
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Kaydet" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Listeye geri dön</a>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

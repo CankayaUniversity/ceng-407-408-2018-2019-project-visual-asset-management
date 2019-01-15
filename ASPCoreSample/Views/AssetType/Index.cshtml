@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ASPCoreSample.Models.AssetTypeModel>
+
+@{
+    ViewData["Title"] = "Demirbaş Türleri Listesi";
+}
+
+<h2>Demirbaş Türleri Listesi</h2>
+
+@if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+{
+    <p>
+        <a asp-action="Create">Yeni Oluştur</a>
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Demirbaş Türü
+        </th>
+        <th></th>
+
+        @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+        {
+            <th></th>
+        }
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+
+        @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+        {
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Silmek istediğinizden emin misiniz?');">Sil</a>
+            </td>
+
+        }
+    </tr>
+    }
+</table>

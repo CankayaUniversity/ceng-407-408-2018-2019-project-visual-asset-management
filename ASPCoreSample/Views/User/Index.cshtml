@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ASPCoreSample.Models.UserModel>
+
+@{
+    ViewData["Title"] = "Kullanıcı Listesi";
+}
+
+<h2>Kullanıcı Listesi</h2>
+
+<p>
+    <a asp-action="Create">Kullanıcı ekle</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Adı 
+        </th>
+        <th>
+            Soyadı
+        </th>
+        <th>
+            e-mail
+        </th>
+        <th> 
+           Yetki
+        </th>
+        <th>
+           Kullanıcı Adı
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.surname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.department)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.username)
+        </td>
+
+        <td>
+            <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+            <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Silmek istediğinizden emin misiniz?');">Sil</a>
+        </td>
+    </tr>
+    }
+</table>

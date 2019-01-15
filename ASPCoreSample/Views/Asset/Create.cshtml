@@ -1,0 +1,112 @@
+﻿@model ASPCoreSample.Models.AssetModel
+
+@{
+    ViewData["Title"] = "Yeni Oluştur";
+}
+
+<h2>Yeni Demirbaş Oluştur</h2>
+
+@if (@ViewData["error"] != null )
+{
+    <p>
+        <font size="3" color="red">İŞLEM BAŞARISIZ </font>
+    </p>
+}
+<form asp-action="Create">
+    <div class="form-horizontal">
+        <h4>Demirbaş Bilgileri:</h4>
+        <hr />
+
+
+        <div class="form-group">
+
+            <label asp-for="depot_id" class="col-md-2 control-label">Demirbaş Adı</label>
+            <div class="col-md-5">
+                <select asp-for="depot_id" asp-items="@ViewBag.depots">
+                    <option>Please select one</option>
+                </select>
+            </div>
+        </div>
+
+
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="numberofasset" class="col-md-2 control-label">Sayısı</label>
+            <div class="col-md-10">
+                <input asp-for="numberofasset" class="form-control" />
+                <span asp-validation-for="numberofasset" class="text-danger" />
+            </div>
+        </div>
+
+        <div class="form-group">
+
+            <label asp-for="assettype_id" class="col-md-2 control-label">Türü</label>
+            <div class="col-md-5">
+                <select asp-for="assettype_id" asp-items="@ViewBag.types">
+                    <option>Please select one</option>
+                </select>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+
+            <label asp-for="brand_id" class="col-md-2 control-label">Markası</label>
+            <div class="col-md-5">
+                <select asp-for="brand_id" asp-items="@ViewBag.brands">
+                    <option>Please select one</option>
+                </select>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+
+            <label asp-for="owner_id" class="col-md-2 control-label">Sahibi</label>
+            <div class="col-md-5">
+                <select asp-for="owner_id" asp-items="@ViewBag.owners">
+                    <option>Please select one</option>
+                </select>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+
+            <label asp-for="room_id" class="col-md-2 control-label">Oda</label>
+            <div class="col-md-5">
+                <select asp-for="room_id" asp-items="@ViewBag.rooms">
+                    <option>Please select one</option>
+                </select>
+            </div>
+        </div>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="serial_no" class="col-md-2 control-label">Seri Numarası</label>
+            <div class="col-md-10">
+                <input asp-for="serial_no" class="form-control" />
+                <span asp-validation-for="serial_no" class="text-danger" />
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Oluştur" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Listeye geri dön</a>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

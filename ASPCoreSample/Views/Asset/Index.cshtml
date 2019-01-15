@@ -1,0 +1,97 @@
+﻿@model IEnumerable<ASPCoreSample.Models.AssetModel>
+
+@{
+    ViewData["Title"] = "Demirbaş";
+}
+
+<h2>Demirbaş Listesi</h2>
+
+@if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+{
+    <p>
+        <a asp-action="Create">Yeni Demirbaş Oluştur</a>
+    </p>
+}
+    <table class="table">
+        <tr>
+            <th>
+                Demirbaş Adı
+            </th>
+
+            <th>
+                Sayısı
+            </th>
+            <th>
+                Türü
+            </th>
+
+            <th>
+                Markası
+            </th>
+
+            <th>
+                 Sahibi
+            </th>
+
+            <th>
+                Seri Numarası
+            </th>
+
+            <th>
+                Oda 
+            </th>
+
+            <th>
+                Geliş Tarihi
+            </th>
+            @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+            {
+                <th></th>
+            }
+        </tr>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.depot_name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.numberofasset)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type_name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.brand_name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.owner_name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.serial_no)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.room_name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.acquisition_date)
+            </td>
+
+            @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+            {
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Silmek istediğinizden emin misiniz?');">Sil</a>
+                </td>
+
+            }
+        </tr>
+        }
+    </table>

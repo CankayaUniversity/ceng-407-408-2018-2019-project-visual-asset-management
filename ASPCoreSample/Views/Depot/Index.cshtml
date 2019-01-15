@@ -1,0 +1,85 @@
+﻿@model IEnumerable<ASPCoreSample.Models.DepotModel>
+
+@{
+    ViewData["Title"] = "Liste";
+}
+
+<h2>Depo Demirbaş Listesi</h2>
+
+@if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+{
+    <p>
+        <a asp-action="Create">Yeni Oluştur</a>
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            İsim
+        </th>
+
+        <th>
+            Demirbaş Türü
+        </th>
+
+        <th>
+            Markası
+        </th>
+
+        <th>
+            Toplam Sayı
+        </th>
+
+        <th>
+            Kullanılan
+        </th>
+
+        <th>
+            Kullanılmayan
+        </th>
+
+        @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+        {
+            <th></th>
+        }
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.typeName)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.brandName)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.totalcount)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.inusecount)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.notusecount)
+        </td>
+
+        @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+        {
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Silmek istediğinizden emin misiniz?');">Sil</a>
+            </td>
+
+        }
+    </tr>
+    }
+</table>

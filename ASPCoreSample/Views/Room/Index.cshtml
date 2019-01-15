@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ASPCoreSample.Models.RoomModel>
+
+@{
+    ViewData["Title"] = "Oda Listesi";
+}
+
+<h2>Oda Listesi</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Oda İsmi
+        </th>
+        <th>
+            Oda Sahibi
+        </th>
+        <th>
+            Kat
+        </th>
+        <th>
+            Blok
+        </th>
+        <th>
+            Aktiflik
+        </th>
+    </tr>
+    
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.roomname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.floor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.block)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.isactive)
+        </td>
+        @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+        {
+            <th></th>
+        }
+        @if (@ViewData["department"] != null && @ViewData["department"].Equals("Admin"))
+        {
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a>
+            </td>
+        }
+        </tr>
+    }
+</table>

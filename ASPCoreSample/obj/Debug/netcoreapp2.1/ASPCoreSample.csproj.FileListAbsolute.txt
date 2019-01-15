@@ -1,0 +1,475 @@
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Index.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\personal\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\mcore\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Index.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Create.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Index.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Index.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Create.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Edit.g.cshtml.cs
+C:\personal\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\1.4.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Create.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Create.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Create.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\1.13.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Create.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Edit.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Create.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Edit.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Create.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Edit.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\personal\1.14.2019\ASPCoreSample\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Profile\index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Profile\index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\LENOVO\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.deps.json
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.json
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.runtimeconfig.dev.json
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.dll
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\bin\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csprojAssemblyReference.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorAssemblyInfo.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfoInputs.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.AssemblyInfo.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.input.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.TagHelpers.output.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorCoreGenerate.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Create.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Edit.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Asset\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Create.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Edit.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Depot\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Create.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Edit.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Owner\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Profile\index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cache
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.RazorTargetAssemblyInfo.cs
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.Views.pdb
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.dll
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.pdb
+C:\Users\MTR\Desktop\Final Version\Final_Version\ASPCoreSample\obj\Debug\netcoreapp2.1\ASPCoreSample.csproj.CopyComplete
